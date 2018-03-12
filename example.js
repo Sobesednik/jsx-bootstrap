@@ -1,0 +1,3 @@
+const jsxBootstrap = require('./')
+
+jsxBootstrap()
